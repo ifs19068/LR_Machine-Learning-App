@@ -1,1 +1,1 @@
-# Linear_Regression-Machine_Learning-App
+# Linear Regression - Machine Learning App
