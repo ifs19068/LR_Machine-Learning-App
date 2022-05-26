@@ -1,0 +1,53 @@
+body {
+  font-family: "Nanum Gothic", sans-serif;
+  background: #ccfff2;
+}
+#container {
+  width: 500px;
+  background: rgb(253, 253, 253);
+  margin: 90px auto;
+  padding: 30px 20px;
+  border-radius: 6px;
+  box-shadow: 1px 2px 3px 0px #90daf3;
+  background-color: #fff;
+}
+
+h4 {
+  text-align: center;
+  font-family: "Nanum Gothic", sans-serif;
+}
+input[type="text"] {
+  font-size: 15px;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  background-size: 30px;
+  background-position: 5px 5px;
+  padding-left: 40px;
+  border-radius: 5px;
+}
+.btn {
+  font-size: 15px;
+  background: #009973;
+  color: white;
+  border: white 3px solid;
+  border-radius: 7px;
+  padding: 12px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.btn:hover {
+  background: hsl(165, 87%, 18%);
+  color: aliceblue;
+  transition: 0.6s;
+}
+.result {
+  border-radius: 6px;
+  border: none;
+  padding: 11px 19px;
+}
